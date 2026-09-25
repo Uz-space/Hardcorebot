@@ -11,8 +11,8 @@ compatibility_date = "2024-01-01"
 #    and paste that id into preview_id.
 
 [[kv_namespaces]]
-binding  = "BOT_KVS"
-id       = "REPLACE_WITH_YOUR_KV_NAMESPACE_ID"
+binding  = "HARDCOREBOT_KV"
+id       = "85b51776f96e409b9e5470bdcc4e547c"
 # preview_id = "REPLACE_WITH_YOUR_PREVIEW_KV_ID"
 
 # ── Secrets (set via CLI, never hardcode here) ────────────
