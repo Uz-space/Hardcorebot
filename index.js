@@ -1010,7 +1010,7 @@ export default {
 
 async function handleUpdate(update, env) {
   const token = env.BOT_TOKEN;
-  const kv = env.BOT_KVS;
+  const kv = env.HARDCOREBOT_KV;
 
   try {
     if (update.message) {
